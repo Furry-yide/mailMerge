@@ -1,0 +1,2 @@
+# mailMerge
+通过读取指定的Excel以及Word文件，将Excel中的标题行下的字段替换到Word文件中。这对于不会使用WPS或者Office中自带的邮件合并的人群，有更相对方便的操作
